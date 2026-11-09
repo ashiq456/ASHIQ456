@@ -6,19 +6,12 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Node.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
+font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Node.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
 
 I’m a passionate Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my problem-solving and development skills.
-
-### 🎯 Interested in Full-Stack Web Development
-
-* 🔭 Building modern, responsive & full-stack web applications.
-* ⚡ Using: Node.js, Express.js, MongoDB, PostgreSQL, and Prisma for backend development.
-* 🌱 Next.js, TypeScript, Node.js, PostgreSQL & System Design.
-* 💬 Ask me about: Full-Stack development (React, Next.js, Node.js, PostgreSQL).
 
 ### My Location
 
@@ -105,16 +98,6 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 </p>
 
 ---
-
-## 🎯 2026 Goals
-
-* 🚀 Become a professional Full-Stack Web Developer
-* ⚛️ Build production-ready React & Next.js applications
-* 🖥️ Strengthen Node.js backend development skills
-* 🗄️ Improve PostgreSQL and database design skills
-* 🧠 Improve problem-solving and algorithmic thinking
-* 🌍 Build and deploy real-world projects
-* 🤝 Contribute to open-source projects
 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
