@@ -1,17 +1,5 @@
 ![Full stock webdebloper ](https://i.postimg.cc/sXyYzZ8P/Chat-GPT-Image-Sep-5-2026-11-05-14-PM.png)
 
-<h1 align="center">Hi there my gorgeous friend <img src="https://i.postimg.cc/jqm017s2/hello.gif" width="28px" alt="hi">
-</h1>
-
-
-
-<p align="center">
-font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Node.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
-</p>
-
-## 👨‍💻 About Me
-
-I’m a passionate Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my problem-solving and development skills.
 
 ### My Location
 
